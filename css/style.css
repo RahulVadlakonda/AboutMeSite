@@ -1,0 +1,139 @@
+body {
+    font-family: "Merriweather", serif;
+    text-align: center;
+    margin: 0;
+    color: #40514e;
+}
+
+hr {
+    width: 5%;
+    border: dotted;
+    border-width: 6px;
+    color: #a5a8a8;
+    border-bottom: none;
+    margin: 10px auto 10px;
+}
+
+.top-container {
+    padding-top: 100px;
+    background-color: #eaf6f6;
+    width: 100%;
+}
+
+.name-container {
+    height: 200px;
+    font-family: "Sacramento", cursive;
+    font-size: 200%;
+    margin: 50px auto 0px auto;
+    color: #2b7474;
+    font-weight: bold;
+}
+
+.top-cloud-img {
+    position: absolute;
+    right: 15%;
+    top: 50px;
+}
+
+.bottom-cloud-img {
+    position: absolute;
+    left: 15%;
+}
+
+.mountain-img {
+    width: 60%;
+}
+
+.my-name {
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+}
+
+#my-img {
+    height: 150px;
+    width: 150px;
+    margin: 100px auto 0;
+}
+
+h3 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.education-content {
+    border: 2px rgb(223, 220, 220) solid;
+    margin: 20px auto 20px;
+    padding: 30px;
+}
+
+.degree-details {
+    margin: 5px auto 5px;
+}
+
+.education-details {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: left;
+}
+
+.my-skills {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 50px;
+    text-align: left;
+    padding: 20px;
+}
+
+.skill-img {
+    height: 50px;
+    width: 50px;
+}
+
+.skill-item {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.contact-info {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: left;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.mail-to {
+    text-decoration: none;
+    color: #f7f7f7;
+    background: #11cdd4;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+}
+
+.mailto:hover {
+    background: #55574b;
+}
+
+.footer-container {
+    background-color: #eaf6f6;
+
+    margin: 10px auto auto auto;
+    padding: 20px;
+}
+
+.social-link {
+    text-decoration: none;
+    color: #55574b;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
